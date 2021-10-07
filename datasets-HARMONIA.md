@@ -62,8 +62,8 @@
 | Type of high vegetation cover                              | x   |      |       |        |      
 | Leaf area index                                            | x   |      |       |        |      
 
-| Available CAMS variables|CAMS| CAMSEU | CAMSEURA |
-|:-----------------------------------------------------------|:---:|:----:|:-----:|:------:|
+| variables|CAMS| CAMSEU | CAMSEURA |
+|:---|:---:|:----:|:-----:|
 | Particulate matter d < 1 um / dust|x|x|x|
 | Particulate matter d < 2.5 um |x|x|x|                                 
 | Particulate matter d < 10 um |x|x|x|
