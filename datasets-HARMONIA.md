@@ -85,7 +85,7 @@
 | Sea salt aerosol optical depth at 550 nm |x| | |
 | Dust aerosol optical depth at 550 nm |  x   |       |        | 
 | Organic matter aerosol optical depth at 550 nm |x| | |
-| Black carbon aerosol optical depth at 550 nm | | | | 
+| Black carbon aerosol optical depth at 550 nm |x| | | 
 | Sulphate aerosol optical depth at 550 nm |x| | | 
 | Total aerosol optical depth at 469 nm |x| | | 
 | Total aerosol optical depth at 670 nm |x|       |        | 
