@@ -2,7 +2,7 @@
 
 * ERA5 hourly data from 1979 to present: updated daily reanalysis (5 day time delay) 
 * ECSF, ECBSF, ECB2SF seasonal forecasts: 215 daily forecasts 7 months ahead (|B| and |B2|: bias adjusted forecasts)
-* CAMS atmospheric composition model output data: daily 5-day forecasts with hourly data
+* CAMS, CAMSEU, CAMSEURA atmospheric composition model output data: daily 5-day forecasts with hourly data
 * dissemination thru smartmet-server (https://github.com/fmidev/smartmet-server) check out wiki pages for [Timeseries-plugin](https://github.com/fmidev/smartmet-plugin-timeseries/wiki) and [WMS (Dali & WMS) plugin](https://github.com/fmidev/smartmet-plugin-wms/wiki/SmartMet-plugin-WMS-(Dali-&-WMS))!
 
 |dataset producer|availability|
