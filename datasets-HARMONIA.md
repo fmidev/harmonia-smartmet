@@ -11,12 +11,14 @@
 |ECSF, ECBSF, ECB2SF| daily forecasts 7 months ahead |
 |CAMS, CAMSEURA, CAMSEU| daily 5-day forecasts with hourly data|
 
-# C3S Variables
+# C3S Variables   
+
+Bolded variables are assumed to be of most interest to HARMONIA project based on WP2.1 Workshop Report and other. 
 
 | Available C3S variables|ERA5|ECSF|ECBSF|ECB2SF| 
 |:-----------------------------------------------------------|:---:|:----:|:-----:|:------:|
-| Air temperature (2 m)                                      | x | x | x | x |
-| Soil temperature level 1 (ground temperature)              | x | x | x | x |      
+| **Air temperature (2 m)**                                  | x | x | x | x |
+| **Soil temperature level 1 (ground temperature)**          | x | x | x | x |      
 | Soil temperature level 2                                   | x | x | x | x |      
 | Soil temperature level 3                                   | x | x | x | x |      
 | Soil temperature level 4                                   | x | x | x | x |      
@@ -24,8 +26,8 @@
 | Dew point temperature                                      | x | x | x | x |      
 | Maximum temperature at 2 metres in the last 24 hours       | | x | | |      
 | Minimum temperature at 2 metres in the last 24 hours       | | x | | |      
-| Mean sea level pressure                                    | x | x | | |      
-| Total precipitation                                        | x | x | x | x |       
+| **Mean sea level pressure**                                | x | x | | |      
+| **Total precipitation**                                    | x | x | x | x |       
 | Runoff                                                     | x | x | | |      
 | Surface runoff                                             | x | | | |      
 | Sub-surface runoff                                         | x | | | |      
@@ -36,9 +38,9 @@
 | Volumetric soil water layer 3                              | x | x | | |      
 | Volumetric soil water layer 4                              | x | x | | |       
 | Soil type                                                  | x | | | |      
-| 10 metre U wind component                                  | x | x | x | x |       
-| 10 metre V wind component                                  | x | x | x | x |       
-| Wind speed                                                 | | | x | x |      
+| **10 metre U wind component**                              | x | x | x | x |       
+| **10 metre V wind component**                              | x | x | x | x |       
+| **Wind speed**                                             | | | x | x |      
 | Instantaneous wind speed                                   | | x | | |      
 | Eastward turbulent surface stress                          | | x | | |      
 | Northward turbulent surface stress                         | | x | | |      
@@ -68,8 +70,8 @@
 | Available CAMS variables|CAMS| CAMSEU | CAMSEURA |
 |:-----------------------------------------------------------|:----:|:-----:|:------:|
 | Particulate matter d < 1 um / dust                | x | x | x |
-| Particulate matter d < 2.5 um                     | x | x | x |
-| Particulate matter d < 10 um                      | x | x | x |
+| **Particulate matter d < 2.5 um**                 | x | x | x |
+| **Particulate matter d < 10 um**                  | x | x | x |
 | Total column Nitrogen dioxide                     | x | | |
 | Total column Sulphur dioxide                      | x | | |
 | Total column carbon monoxide                      | x | | |  
