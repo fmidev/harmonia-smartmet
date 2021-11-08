@@ -50,7 +50,7 @@ Bolded variables are assumed to be of most interest to HARMONIA project based on
 | Surface snow thickness                                     | x | x | x | x |      
 | Total column snow water                                    | x | x | | |      
 | Sea ice area fraction (ice cover)                          | | x | | |      
-| Total cloud cover                                          | | | | |      
+| Total cloud cover                                          | | x | | |      
 | Latent heat flux                                           | | x | | |      
 | Sensible heat flux                                         | | x | | |      
 | Top net solar radiation                                    | | x | | |      
