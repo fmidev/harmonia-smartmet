@@ -27,7 +27,7 @@
 | extreme weather events ||T4.1, T4.2, T4.5, (T4.3?)|  | T4.1, T4.2, T4.5 |
 | waste management | |T4.2|  | |
 | resource management | |T4.6 |T4.6 | |
-| loss of eosystems & biodiversity |  | | |  |
+| loss of ecosystems & biodiversity |  | | |  |
 | (landslides)||T4.4(?) (T4.3?)|||
 
 | WP4 Tasks | Milan         | Sofia         | Piraeus       | Ixelles| not specified |
@@ -57,5 +57,5 @@ Note: Sofia CC challenge mentioned landslides in D2.2.
 | extreme weather events | 3    | 2.5           |         2.6   |     3          |
 | waste management | 2          | 3             |    2          |      2         |
 | resource management | 2       | 2.5           |   2.2         |       1        |
-| loss of eosystems & biodiversity | 2.3 | 2    |2.8            |        3       |
+| loss of ecosystems & biodiversity | 2.3 | 2    |2.8            |        3       |
 
