@@ -16,3 +16,5 @@ For example, the following request fetches the 'total precipitation in meters (R
 The service location that starts the HTTP request query is **harmonia.geoss.space**, and the parameters following it are given as name-value pairs separated by the ampersand (&) character. (Hint: copy the FMI key from the https://harmonia.geoss.space/grid-gui service for the parameter definition 'param'.)
 
 An example response for this query is shown below: 
+
+![timeseries output]](https://github.com/fmidev/harmonia-smartmet/blob/main/example_timeseries_RR-M.png)
