@@ -17,4 +17,12 @@ The service location that starts the HTTP request query is **harmonia.geoss.spac
 
 An example response for this query is shown below: 
 
-![timeseries output]](https://github.com/fmidev/harmonia-smartmet/blob/main/example_timeseries_RR-M.png)
+![timeseries output](https://github.com/fmidev/harmonia-smartmet/blob/main/example_timeseries_RR-M.png)
+
+For more information and examples of the usage of the TimeSeries plugin, see SmartMet Server [Timeseries-plugin Wiki pages](https://github.com/fmidev/smartmet-plugin-timeseries/wiki). 
+
+# Using the WMS/Dali plugin for images
+
+Dali is the engine to make images from smartmet-server internal data. It can be used directly or with appropriate layer definitions can provide an OGC compliant WebMapService interface. Open Geospatial Consortiums (OGC) Web Map Service (WMS) offers a convenient way for generating map images from a map server over the Web using the HTTP protocol. Several image products can be generated using the SmartMet Server WMS plugin. 
+
+An example WMS request to the server
