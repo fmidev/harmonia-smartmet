@@ -1,3 +1,5 @@
+WORK IN PROGRESS
+
 # Datasets from Copernicus for HARMONIA project
 
 * ERA5 hourly data from 1979 to present: updated daily reanalysis (5 day time delay) 
