@@ -9,4 +9,10 @@ For example web app code using a smartmet-server check out the https://github.co
 # Using the Timeseries API for data in table format
 
 The TimeSeries plugin can be used to fetch time series information for observation and forecast data, with specific time or time interval chosen by the user. The datasets can be downloaded with a HTTP request which contains the parameters needed to obtain the information, processing the results and formatting the output.
+For example, the following request fetches the 'total precipitation in meters (RR-M)' for Milan (lat 45.464664, lon 9.188540):
 
+`https://harmonia.geoss.space/timeseries?lonlat=9.188540,45.464664&format=debug&param=name,time,RR-M:ERA5:5021:1:0:1&starttime=20220501T000000&precision=full`
+
+The service location that starts the HTTP request query is **harmonia.geoss.space**, and the parameters following it are given as name-value pairs separated by the ampersand (&) character. (Hint: copy the FMI key from the https://harmonia.geoss.space/grid-gui service for the parameter definition 'param'.)
+
+An example response for this query is shown below: 
