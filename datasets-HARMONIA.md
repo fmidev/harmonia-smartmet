@@ -1,4 +1,3 @@
-<!---
 # Datasets from Copernicus for the Harmonia project 
 
 https://harmonia.geoss.space/grid-gui
@@ -49,15 +48,15 @@ https://harmonia.geoss.space/grid-gui
 
 Bolded variables are assumed to be of most interest to HARMONIA project based on WP2.1 Workshop Report and other. 
 
-| Available C3S variables|ERA5|ECSF|ECBSF|ECB2SF| 
+| Available C3S variables|ERA5/CERRA|ECSF|ECBSF|climate prediction| 
 |:-----------------------------------------------------------|:---:|:----:|:-----:|:------:|
 | **Air temperature (2 m)**                                  | x | x | x | x |
-| **Soil temperature level 1 (ground temperature)**          | x | x | x | x |      
-| Soil temperature level 2                                   | x | x | x | x |      
-| Soil temperature level 3                                   | x | x | x | x |      
-| Soil temperature level 4                                   | x | x | x | x |      
+| **Soil temperature level 1 (ground temperature)**          | x | x | x |  |      
+| Soil temperature level 2                                   | x | x | x |  |      
+| Soil temperature level 3                                   | x | x | x |  |      
+| Soil temperature level 4                                   | x | x | x |  |      
 | Sea surface temperature                                    | | x | | |      
-| Dew point temperature                                      | x | x | x | x |      
+| Dew point temperature                                      | x | x | x | |      
 | Maximum temperature at 2 metres in the last 24 hours       | | x | | |      
 | Minimum temperature at 2 metres in the last 24 hours       | | x | | |      
 | **Mean sea level pressure**                                | x | x | | |      
@@ -65,23 +64,23 @@ Bolded variables are assumed to be of most interest to HARMONIA project based on
 | Runoff                                                     | x | x | | |      
 | Surface runoff                                             | x | | | |      
 | Sub-surface runoff                                         | x | | | |      
-| Evaporation                                                | x | x | x | x |      
+| Evaporation                                                | x | x | x |  |      
 | Potential evaporation                                      | x | | | |      
-| Surface soil wetness at level 1                            | x | x | x | x |      
-| Volumetric soil water layer 2                              | x | x | x | x |      
+| Surface soil wetness at level 1                            | x | x | x |  |      
+| Volumetric soil water layer 2                              | x | x | x |  |      
 | Volumetric soil water layer 3                              | x | x | | |      
 | Volumetric soil water layer 4                              | x | x | | |       
 | Soil type                                                  | x | | | |      
 | **10 metre U wind component**                              | x | x | x | x |       
 | **10 metre V wind component**                              | x | x | x | x |       
 | **Wind speed**                                             | | | x | x |      
-| Instantaneous wind speed                                   | | x | | |      
+| Instantaneous wind speed                                   | | x | x | |      
 | Eastward turbulent surface stress                          | | x | | |      
 | Northward turbulent surface stress                         | | x | | |      
-| Snow depth                                                 | x | x | x | x |      
+| Snow depth                                                 | x | x | x |  |      
 | Snowfall accumulation                                      | x | x | | |      
-| Snow density                                               | x | x | x | x |      
-| Surface snow thickness                                     | x | x | x | x |      
+| Snow density                                               | x | x | x |  |      
+| Surface snow thickness                                     | x | x | x |  |      
 | Total column snow water                                    | x | x | | |      
 | Sea ice area fraction (ice cover)                          | | x | | |      
 | Total cloud cover                                          | | x | | |      
@@ -149,4 +148,3 @@ Bolded variables are assumed to be of most interest to HARMONIA project based on
 |secondary_inorganic_aerosol                        | | x | | 
 |sulphur_dioxide                                    | | x | x |
 |total_elementary_carbon                            | | x | | 
--->
