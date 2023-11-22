@@ -91,7 +91,7 @@ Bolded variables are assumed to be of most interest to HARMONIA project based on
 | Long wave radiation accumulation                           | | x | | |      
 | Net long wave radiation accumulation                       | | x | | |      
 | Net shortwave radiation accumulation                       | | x | | |      
-| Net long wave radiation accumulation, top of the atmosphere| | x | | |      
+| Net long wave rad. acc, top of atmosphere                  | | x | | |      
 | Low vegetation cover                                       | x | | | |      
 | High vegetation cover                                      | x | | | |      
 | Type of low vegetation cover                               | x | | | |      
