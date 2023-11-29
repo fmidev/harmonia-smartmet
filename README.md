@@ -32,3 +32,7 @@ An example response for this query is shown below: tbd
 Available WMS 'LAYERS' can be checked with the GetCapabilities request as follows: 
 
 `https://harmonia.geoss.space/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetCapabilities`
+
+# A new API for sophisticated data retrieval OGC EDR Environmental Data Retrieval
+https://ogcapi.ogc.org/edr/ is a new API to get data in CoverageJSON or GeoJson formats with a restful service. Check out https://urban.geoss.space/edr/collections for this cool new feature.
+retrie
